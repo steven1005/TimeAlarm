@@ -1,0 +1,9 @@
+D:\source\TimeAlarm\TimeAlarm\TimeAlarm\bin\Debug\TimeAlarm.exe.config
+D:\source\TimeAlarm\TimeAlarm\TimeAlarm\bin\Debug\TimeAlarm.exe
+D:\source\TimeAlarm\TimeAlarm\TimeAlarm\bin\Debug\TimeAlarm.pdb
+D:\source\TimeAlarm\TimeAlarm\TimeAlarm\obj\Debug\TimeAlarm.csprojResolveAssemblyReference.cache
+D:\source\TimeAlarm\TimeAlarm\TimeAlarm\obj\Debug\TimeAlarm.Form1.resources
+D:\source\TimeAlarm\TimeAlarm\TimeAlarm\obj\Debug\TimeAlarm.Properties.Resources.resources
+D:\source\TimeAlarm\TimeAlarm\TimeAlarm\obj\Debug\TimeAlarm.csproj.GenerateResource.Cache
+D:\source\TimeAlarm\TimeAlarm\TimeAlarm\obj\Debug\TimeAlarm.exe
+D:\source\TimeAlarm\TimeAlarm\TimeAlarm\obj\Debug\TimeAlarm.pdb
